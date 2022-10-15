@@ -1,7 +1,6 @@
-## Oiii eu sou o Ítalo Rizzo, e adoro programação e tecnologia!
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=7BCFF7&vCenter=true&multiline=true&width=435&height=70&lines=Oiii+eu+sou+o+%C3%8Dtalo+Rizzo%2C+;e+adoro+programa%C3%A7%C3%A3o+e+tecnologia!" alt="Typing SVG" /></a>
 
-Tenho: 15 anos
-Pronomes: Ele/dele
+Tudo bem com você???
 
 💚 Aprendendo agora:
 
@@ -13,11 +12,19 @@ Pronomes: Ele/dele
 
 👉 JS Express.
 
+
 ##
+
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/italorizzo">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=italorizzo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italorizzo&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  <br>
+  <div align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=italorizzo&style=for-the-badge)
+  
 </div>
  <div style="display: inline_block"><br>
   <img align="center" alt="Italo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -40,4 +47,8 @@ Pronomes: Ele/dele
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/italorizzo/italorizzo/blob/output/github-contribution-grid-snake.svg)
+  
  </div>
+
+
+    
